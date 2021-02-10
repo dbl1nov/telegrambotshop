@@ -2,6 +2,6 @@
 
 ## I'm a beginner front-end developer. But I also love python🐍❤️
 
-Languages and tools
+![Vue.js](https://img.shields.io/badge/Vue.js-31d100?style=for-the-badge&logo=Vue.js)
 
 Follow Me
