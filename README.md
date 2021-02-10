@@ -5,4 +5,4 @@
 Languages and Tools:
 ![Vue.js](https://img.shields.io/badge/Vue.js-31d100??style=flat&logo=appveyorVue.js)
 
-Follow Me
+Follow Me: ![VK](https://vk.com/frontender1)
