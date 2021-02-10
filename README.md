@@ -1,2 +1,4 @@
-# telegrambotshop
- Shoe store bot 
+Installing:
+pip install pyTelegramBotAPI
+pip install telebot
+ready.
