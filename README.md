@@ -1,3 +1,4 @@
+Бот-магазин обуви.🤖
 Installing: 	
 pip install pytelegrambotapi;
 pip install telebot;
